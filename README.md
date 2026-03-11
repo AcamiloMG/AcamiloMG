@@ -47,7 +47,3 @@ Impacto de negocio: Filtrar automáticamente los comentarios realizados en menos
 - **Location:** Villavicencio, Colombia
 
 ---
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AcamiloMG&show_icons=true&theme=flat-square" alt="GitHub Stats" />
-</p>
